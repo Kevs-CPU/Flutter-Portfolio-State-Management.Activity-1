@@ -51,8 +51,6 @@ class ActivityCard extends StatelessWidget {
                   ],
                 ),
               ),
-              const SizedBox(width: 12),
-              const Icon(Icons.arrow_forward_ios),
             ],
           ),
         ),
